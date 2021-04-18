@@ -1,3 +1,3 @@
 # Atrio theme now is free for all
 
-<img src='./shot.png' alt='atrio>
+<img src='https://github.com/RezaParsian/Atrio/blob/master/shot.png' alt='atrio>
